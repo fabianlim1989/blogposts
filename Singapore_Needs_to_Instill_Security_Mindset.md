@@ -1,6 +1,6 @@
 # Singapore's Education and Security
 
-__Disclaimer: This article is an effort solely by Fabian Lim, written from my point of view and does not represent any organization.__
+_Disclaimer: This article is an effort solely by Fabian Lim, written from my point of view and does not represent any organization. Born and brew as a Singaporean, I am using my country as a case study but facts apply worldwide._
 
 ## Let me lay the premises - facts, figures and history
 
