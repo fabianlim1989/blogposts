@@ -1,4 +1,4 @@
-# How Singapore's Education System Can Affect Individual's Security Mindset
+# How Singapore's Education System May Affect Individual's Security Mindset
 
 _Disclaimer: This article is an effort solely by Fabian Lim, written from my point of view and does not represent any organization. Born and brew as a Singaporean, I am using my country as a case study but facts apply worldwide. I am utterly thankful, and consider myself lucky to be in a generation for my bilingual ability and knowledge in information security._
 
